@@ -1,0 +1,10 @@
+var arbol = new Bin();
+arbol.agregar(new Nodo(18));
+arbol.agregar(new Nodo(12));
+arbol.agregar(new Nodo(4));
+arbol.agregar(new Nodo(22));
+arbol.agregar(new Nodo(14));
+arbol.agregar(new Nodo(18));
+arbol.agregar(new Nodo(26));
+arbol.agregar(new Nodo(21));
+arbol.agregar(new Nodo(0));
